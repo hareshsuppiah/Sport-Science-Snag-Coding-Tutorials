@@ -4,18 +4,7 @@ A collection of hands-on coding tutorials for sports science data analysis and v
 
 ## Tutorials
 
-### [MMA Violin Plots](./MMA-Violin-Plots/)
-Learn to create professional violin plots for combat sports analysis. This tutorial recreates the visualisations from Barley et al. (2025) studying the influence of height and reach on fight-ending punches in the UFC.
-
-**What you'll learn:**
-- Generate realistic MMA fighter data
-- Create violin plots with box plot overlays
-- Understand statistical patterns in sports data
-- Apply data visualisation techniques to sports science
-
-**Files:**
-- `MMA_Violin_Plot_Tutorial.ipynb` - Complete tutorial notebook
-- `SCR-20250608-ivum.png` - Reference figure from the original study
+- [MMA Violin Plots](./MMA-Violin-Plots/)
 
 ## Getting Started
 
